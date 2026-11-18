@@ -1,0 +1,5 @@
+Left head: Which way is the meadow?
+Right head: I thought you knew.
+Left head: I thought YOU knew.
+Right head: We have been standing here for an hour.
+Left head: It's a nice hour.
