@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260"><defs><radialGradient id="m"><stop offset="0" stop-color="#fffbe0"/><stop offset="1" stop-color="#fffbe000"/></radialGradient></defs>
+<rect width="400" height="260" fill="#1b2340"/><circle cx="320" cy="50" r="40" fill="url(#m)"/><circle cx="320" cy="50" r="16" fill="#fff6c8"/>
+<rect y="170" width="400" height="90" fill="#27492f"/>
+<path d="M0 215 L400 195 M200 170 L200 260" stroke="#b79b6a" stroke-width="14"/>
+<g transform="translate(250 170)"><ellipse cx="0" cy="20" rx="26" ry="14" fill="#8a6a60"/><rect x="-10" y="25" width="5" height="25" fill="#555"/><rect x="2" y="25" width="5" height="25" fill="#555"/><rect x="-18" y="25" width="5" height="25" fill="#666"/><rect x="10" y="25" width="5" height="25" fill="#666"/>
+<path d="M24 12 Q40 -14 34 -22" stroke="#8a6a60" stroke-width="9" fill="none"/><path d="M20 10 Q-10 -20 -22 -28" stroke="#8a6a60" stroke-width="9" fill="none"/>
+<circle cx="35" cy="-24" r="8" fill="#a07a70"/><circle cx="-24" cy="-30" r="8" fill="#a07a70"/>
+<path d="M38 -31 l8 -14 l-2 16z M-27 -37 l-8 -14 l10 12z" fill="#ccc"/><circle cx="38" cy="-25" r="1.5"/><circle cx="-21" cy="-31" r="1.5"/></g>
+<g transform="translate(130 215)"><ellipse rx="20" ry="13" fill="#7a5230"/><path d="M-18 -6 l-4 -10 l8 3 l2 -10 l8 7 l6 -10 l6 9 l8 -6 l2 10 l7 -3 l-2 10z" fill="#4a3018"/><circle cx="16" cy="0" r="6" fill="#a47a50"/><circle cx="19" cy="-1" r="1.5"/></g>
+<text x="200" y="20" font-size="10" fill="#fff" text-anchor="middle" font-family="serif">a good place to be lost</text></svg>
